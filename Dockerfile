@@ -9,6 +9,7 @@
 
 
 FROM node:13.6.0-alpine as mermaid-live-editor-builder
+RUN apk update && apk add git
 COPY --chown=node:node . /home
 WORKDIR /home
 RUN yarn install
