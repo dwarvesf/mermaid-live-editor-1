@@ -57,4 +57,4 @@ jobs:
 
       - name: Deploy
         run: |
-          gcloud run deploy $CLOUD_RUN_SERVICE --image $REGISTRY_HOSTNAME/$GKE_PROJECT/$IMAGE:${GITHUB_REF##*/} --project $GKE_PROJECT --region $GKE_ZONE --platform managed
+          gcloud run deploy $CLOUD_RUN_SERVICE --image $REGISTRY_HOSTNAME/$GKE_PROJECT/$IMAGE:${GITHUB_SHA} --project $GKE_PROJECT --region $GKE_ZONE --platform managed
