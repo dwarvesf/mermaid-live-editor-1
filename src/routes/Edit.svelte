@@ -194,24 +194,24 @@
         margin-top: 5px;
     }
     .button-style {
-        background-color: #a2d9e2;
-        color: #33a2c4;
-        border-radius: 0.25rem;
+        background-color: #FCEAED;
+        color: #E13F5E;
+        border-radius: 2px;
         padding: 0.5rem;
-        border: 1px solid #a2d9e2;
+        border: 0.5px solid #E13F5E;
         margin: 0.25rem;
     }
     .button-style:hover {
-        background-color: #fff;
-        color: #33a2c4;
-        border: 1px solid #33a2c4;
+        background-color: #FCEAED;
+        color: #E13F5E;
+        border: 1px solid #E13F5E;
     }
     .button-style:focus {
         outline: none;
     }
     .link-style {
         text-decoration: none;
-        color: #33a2c4;
+        color: #E13F5E;
     }
 </style>
 
