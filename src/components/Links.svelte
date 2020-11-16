@@ -111,17 +111,17 @@ let userimageheight = 1080;
         }
     } */
     .button-style {
-        background-color: #f8f8f8;
-        color: #33a2c4;
+        background-color: #fceaed;
+        color: #f8f8f8;
         border-radius: 0.25rem;
         padding: 0.5rem;
         border: 0.5px solid #d8d8d8;
         margin: 0.25rem;
     }
     .button-style:hover {
-        background-color: #fff;
-        color: #33a2c4;
-        border: 1px solid #33a2c4;
+        background-color: #fceaed;
+        color: #4e4c4d;
+        border: 0.25px solid #d8d8d8;
     }
     .button-style:focus {
         outline: none;
