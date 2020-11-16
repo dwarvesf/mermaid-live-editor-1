@@ -17,8 +17,8 @@
         font-weight: 400;
         border-bottom: 1px solid lightgray;
         font-size: 1.25rem;
-        background-color: #1e60ab;
-        color: #eaebef;
+        background-color: #f1f1f1;
+        color: #e13f5e;
     }
     #content {
         padding-top: 16px;
