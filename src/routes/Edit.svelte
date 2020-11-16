@@ -194,11 +194,11 @@
         margin-top: 5px;
     }
     .button-style {
-        background-color: #FCEAED;
-        color: #E13F5E;
+        background-color: #f8f8f8;
+        color: #4e4c4d;
         border-radius: 2px;
         padding: 0.5rem;
-        border: 0.5px solid #E13F5E;
+        border: 0.5px solid #4e4c4d;
         margin: 0.25rem;
     }
     .button-style:hover {
