@@ -112,23 +112,23 @@ let userimageheight = 1080;
     } */
     .button-style {
         background-color: #fceaed;
-        color: #f8f8f8;
+        color: #4E4C4D;
         border-radius: 0.25rem;
         padding: 0.5rem;
-        border: 0.5px solid #d8d8d8;
+        border: 0.5px solid #969696;
         margin: 0.25rem;
     }
     .button-style:hover {
         background-color: #fceaed;
-        color: #4e4c4d;
-        border: 0.25px solid #d8d8d8;
+        color: #4E4C4D;
+        border: 0.5px solid #969696;
     }
     .button-style:focus {
         outline: none;
     }
     .link-style {
         text-decoration: none;
-        color: #33a2c4;
+        color: #4E4C4D;
     }
     #copy-section {
         padding-top: 1rem;
