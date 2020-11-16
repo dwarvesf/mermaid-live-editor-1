@@ -211,7 +211,7 @@
     }
     .link-style {
         text-decoration: none;
-        color: #E13F5E;
+        color: #4E4C4D;
     }
 </style>
 
