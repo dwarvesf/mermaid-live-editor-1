@@ -111,7 +111,7 @@ let userimageheight = 1080;
         }
     } */
     .button-style {
-        background-color: #fceaed;
+        background-color: #f8f8f8;
         color: #4E4C4D;
         border-radius: 0.25rem;
         padding: 0.5rem;
