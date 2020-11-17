@@ -140,7 +140,6 @@
 
 <style>
     #body {
-        font-family: "Roboto", sans-serif;
         background-color: #fcfbfc;
     }
     #editor-root {
