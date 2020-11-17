@@ -68,7 +68,7 @@
         document.execCommand("Copy");
     };
 
-    let url = "/mermaid-live-editor/#/view";
+    let url = "/#/view";
     let b64Code;
     let iUrl;
     let svgUrl;
@@ -79,7 +79,7 @@
 
     const unsubscribe = codeStore.subscribe((state) => {
         b64Code = Base64.encodeURI(JSON.stringify(state));
-        url = `/mermaid-live-editor/#/view/${b64Code}`;
+        url = `/#/view/${b64Code}`;
         iUrl = `https://mermaid.ink/img/${b64Code}`;
         svgUrl = `https://mermaid.ink/svg/${b64Code}`;
         mdCode = `[![](${iUrl})](${window.location.protocol}//${window.location.host}${window.location.pathname}#/edit/${b64Code})`;
