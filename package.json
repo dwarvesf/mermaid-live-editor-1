@@ -21,7 +21,7 @@
     "postinstall": "cd ./node_modules/mermaid && yarn install && yarn build"
   },
   "dependencies": {
-    "mermaid": "dwarvesf/mermaid#8e130178093fd5d11ba2f3f57323284c32ab4315",
+    "mermaid": "dwarvesf/mermaid#b432a4f01f557bab542165f15fa70d050b44b506",
     "js-base64": "^2.5.1",
     "json-lint": "^0.1.0",
     "jsonlint": "^1.6.3",
