@@ -13,8 +13,7 @@
         margin-bottom: 16px;
     }
     #title {
-        font-family: "Playfair Display", serif;
-        font-weight: 400;
+        font-weight: 500;
         border-bottom: 1px solid lightgray;
         font-size: 1.25rem;
         background-color: #f1f1f1;

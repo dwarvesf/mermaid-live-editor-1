@@ -6,12 +6,16 @@ html {
 
 body {
   padding: 32px;
-	font-family: 'trebuchet ms', verdana, arial;
+	font-family: 'IBM Plex Sans', sans-serif;
 	position: relative;
 	width: 100%;
 	height: 100%;
 	box-sizing: border-box;
 	margin: 0;
+}
+
+pre {
+	font-family: 'IBM Plex Mono', monospace;
 }
 
 /* @media (prefers-color-scheme: dark) {

@@ -166,9 +166,8 @@
         padding-left: 32px;
     }
     #app-title {
-        font-family: "Playfair Display", serif;
         font-size: 32px;
-        font-weight: 700;
+        font-weight: 600;
         margin: 0;
         color: #e13f5e;
         opacity: 0.8;
@@ -202,16 +201,16 @@
         margin: 0.25rem;
     }
     .button-style:hover {
-        background-color: #FCEAED;
-        color: #E13F5E;
-        border: 1px solid #E13F5E;
+        background-color: #fceaed;
+        color: #e13f5e;
+        border: 1px solid #e13f5e;
     }
     .button-style:focus {
         outline: none;
     }
     .link-style {
         text-decoration: none;
-        color: #4E4C4D;
+        color: #4e4c4d;
     }
 </style>
 
@@ -260,7 +259,6 @@
             <Card title="Mermaid Configuration">
                 <Config />
             </Card>
-
         </div>
         <div id="col2">
             <Card title="Preview">
