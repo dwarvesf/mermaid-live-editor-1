@@ -275,7 +275,7 @@
                                 <a
                                     href="https://mermaid-js.github.io/mermaid"
                                     target="_blank"
-                                >
+                                    class="link-style">
                                     Mermaid Documentation
                                 </a>
                             </button>
@@ -283,7 +283,7 @@
                                 <a
                                     href="https://github.com/mermaid-js/mermaid"
                                     target="_blank"
-                                >
+                                    class="link-style">
                                     Mermaid on GitHub
                                 </a>
                             </button>
@@ -291,7 +291,7 @@
                                 <a
                                     href="https://github.com/mermaid-js/mermaid-live-editor"
                                     target="_blank"
-                                >
+                                    class="link-style">
                                     Live Editor on GitHub
                                 </a>
                             </button>
@@ -299,7 +299,7 @@
                                 <a
                                     href="https://github.com/mermaid-js/mermaid-cli"
                                     target="_blank"
-                                >
+                                    class="link-style">
                                     Mermaid CLI
                                 </a>
                             </button>
