@@ -68,7 +68,7 @@
         document.execCommand("Copy");
     };
 
-    let url = "/#/view";
+    let url = "/view";
     let b64Code;
     let iUrl;
     let svgUrl;
