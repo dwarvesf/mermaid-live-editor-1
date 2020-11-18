@@ -121,7 +121,7 @@
     .button-style:hover {
         background-color: #fceaed;
         color: #e13f5e;
-        border: 1px solid #e13f5e;
+        border: 0.5px solid #e13f5e;
     }
     .button-style:focus {
         outline: none;
