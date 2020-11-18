@@ -210,6 +210,10 @@
         text-decoration: none;
         color: #4e4c4d;
     }
+    .link-style:hover {
+        text-decoration: none;
+        color: #e13f5e;
+    }
 </style>
 
 <div id="body">
