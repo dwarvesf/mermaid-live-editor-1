@@ -21,6 +21,7 @@
     }
     #content {
         padding-top: 16px;
+        background-color: #ffffff;
     }
     .padding {
         padding: 8px;
