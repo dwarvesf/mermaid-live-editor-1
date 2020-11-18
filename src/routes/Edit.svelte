@@ -169,7 +169,6 @@
         font-weight: 600;
         margin: 0;
         color: #e13f5e;
-        opacity: 0.8;
     }
     #title-container {
         width: fit-content;
