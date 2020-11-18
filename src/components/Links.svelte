@@ -113,15 +113,15 @@
     .button-style {
         background-color: #f8f8f8;
         color: #4e4c4d;
-        border-radius: 0.25rem;
+        border-radius: 2px;
         padding: 0.5rem;
-        border: 0.5px solid #969696;
+        border: 0.5px solid #4e4c4d;
         margin: 0.25rem;
     }
     .button-style:hover {
         background-color: #fceaed;
-        color: #4e4c4d;
-        border: 0.5px solid #969696;
+        color: #e13f5e;
+        border: 1px solid #e13f5e;
     }
     .button-style:focus {
         outline: none;
