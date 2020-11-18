@@ -311,6 +311,6 @@
     </div>
     <div id="power">
         Powered by mermaid
-        <Tag color="green">{mermaidVersion}</Tag>
+        <Tag color="#e13f5e">{mermaidVersion}</Tag>
     </div>
 </div>
