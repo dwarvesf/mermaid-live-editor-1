@@ -117,6 +117,7 @@
         padding: 0.5rem;
         border: 0.5px solid #4e4c4d;
         margin: 0.25rem;
+        font-size: 14px;
     }
     .button-style:hover {
         background-color: #fceaed;
